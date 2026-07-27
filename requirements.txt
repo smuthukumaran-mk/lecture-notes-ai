@@ -1,0 +1,11 @@
+streamlit
+python-dotenv
+
+ffmpeg-python
+
+faster-whisper
+
+reportlab
+python-docx
+
+ollama
